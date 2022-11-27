@@ -10,5 +10,5 @@ My work is **human-centric** and **boldy radical**. I'm especially interested in
 
 ### Skills
 🔷🔷🔷 Python, JavaScript, TypeScript, Vue, Nuxt, WindiCSS/TailwindCSS </br>
-🔷🔷▪ SQL, GraphQL, Django, Flask, PostgreSQL, Prisma, Firebase, OAuth
-🔷▪▪ Solidity, Rust, React, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP </br>
+🔷🔷▪ SQL, GraphQL, Django, Flask, PostgreSQL, Prisma, Firebase, OAuth, Docker </br>
+🔷▪▪ Solidity, Rust, Anchor, React, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP </br>
