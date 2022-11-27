@@ -7,3 +7,8 @@ My work is **human-centric** and **boldy radical**. I'm especially interested in
 
 ### Deployed Projects
 - [SWEETS](https://swe-ets.netlify.app/): Software Engineer Energy & Time Saver - A personal knowledge base for data structures, algorithms, and Leetcode solutions
+
+### Skills
+🔷🔷🔷 Python, JavaScript, TypeScript, Vue, Nuxt, WindiCSS/TailwindCSS </br>
+🔷🔷▪ SQL, GraphQL, Django, Flask, PostgreSQL, Prisma, Firebase, OAuth
+🔷▪▪ Solidity, Rust, React, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP </br>
