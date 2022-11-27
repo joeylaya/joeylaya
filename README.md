@@ -6,7 +6,4 @@ My work is **human-centric** and **boldy radical**. I'm especially interested in
 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/joeylaya/) | joeyazlaya@gmail.com
 
 ### Deployed Projects
-- SWEETS: Software engineer energy & time saver - A personal knowledge base for data structures, algorithms, and Leetcode solutions
-
-### Projects in Progress
-- Wedwordy - A wedding ceremony script builder
+- [SWEETS](https://swe-ets.netlify.app/): Software Engineer Energy & Time Saver - A personal knowledge base for data structures, algorithms, and Leetcode solutions
