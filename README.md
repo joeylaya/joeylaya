@@ -10,5 +10,5 @@ I'm passionate about leveraging tech in **human-centric** and **boldly radical**
 
 ### Skills
 🌳 **Advanced**: Python, JavaScript, TypeScript, Node.js, Vue.js, Nuxt, WindiCSS/TailwindCSS, Figma </br>
-🌿 **Intermediate**: SQL, GraphQL, Django, Flask, PostgreSQL, Prisma ORM, Firebase, OAuth, Docker </br>
-🌱 **Beginner**: Solidity, Rust, Anchor, React, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP
+🌿 **Intermediate**: React, SQL, GraphQL, Django, Flask, PostgreSQL, Prisma ORM, Firebase, OAuth, Docker </br>
+🌱 **Beginner**: Solidity, Rust, Anchor, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP
