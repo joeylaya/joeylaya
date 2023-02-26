@@ -10,6 +10,6 @@ I'm passionate about leveraging tech in **human-centric** and **boldly radical**
 - 🍪 [SWEETS](https://swe-ets.netlify.app/): Software Engineer Energy & Time Saver - An unpopulated personal knowledge base for data structures, algorithms, and Leetcode solutions
 
 ### Skills
-🌳 **Advanced**: Python, JavaScript, TypeScript, Node.js, Vue.js, Nuxt, WindiCSS/TailwindCSS, Figma </br>
-🌿 **Intermediate**: React, SQL, GraphQL, Django, Flask, PostgreSQL, Prisma ORM, Firebase, OAuth, Docker </br>
-🌱 **Beginner**: Solidity, Rust, Anchor, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP
+- 🌳 **Advanced**: Python, JavaScript, TypeScript, Node.js, Vue.js, Nuxt, WindiCSS/TailwindCSS, Figma </br>
+- 🌿 **Intermediate**: React, SQL, GraphQL, Django, Flask, PostgreSQL, Prisma ORM, Firebase, OAuth, Docker </br>
+- 🌱 **Beginner**: Solidity, Rust, Anchor, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP
