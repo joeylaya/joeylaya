@@ -1,7 +1,9 @@
 ### About Me
-Hey there 👋🏽 I'm Joey (they) -- software engineer, creator, and anarchist. I began seriously exploring software engineering at the end of 2021, but I've been designing, building, programming, solving, and imagining my whole life. Coding simply put a name to the way my mind has always worked.
+Hey there 👋🏽 I'm Joey Laya (they). I'm a bootcamp-graduated and self-taught software engineer engaging in technically and socially innovative work.
 
-I'm passionate about leveraging tech in **human-centric** and **boldly radical** ways that further **social liberation**. I'm especially interested in collaborating on technically and socially innovative projects related to Web3, decentralization, open source development, social justice, climate justice, music, and education.
+In pursuing software engineering, I've discovered how my technical and formulaic thinking, creative mindset, and social justice underpinnings compound into an exciting and essential niche in my life and the world around me. I'm passionate about leveraging tech and artistry in **human-centric** and **boldly radical** ways that further **social liberation**. 
+
+Currently, I am looking to collaborate, grow, and contribute alongside a team dedicated to producing technically innovative work that genuinely makes a difference in the lives of others. I'm especially interested in projects related to Web3, decentralization, open-source development, social justice, climate justice, music, and education.
 
 💬 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/joeylaya/) | joeyazlaya@gmail.com
 
