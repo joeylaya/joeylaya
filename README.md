@@ -7,10 +7,6 @@ Currently, I am looking to collaborate, grow, and contribute alongside a team de
 
 💬 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/joeylaya/) | joeyazlaya@gmail.com
 
-### Deployed Projects
-- 📝 [Script Editor](https://script-editor.netlify.app/script) - a sample of a wedding ceremony script builder and editor that I'm in the process of building
-- 🍪 [SWEETS](https://swe-ets.netlify.app/): Software Engineer Energy & Time Saver - An unpopulated personal knowledge base for data structures, algorithms, and Leetcode solutions
-
 ### Skills
 - 🌳 **Advanced**: Python, JavaScript, TypeScript, Node.js, Vue.js, Nuxt, WindiCSS/TailwindCSS, Figma </br>
 - 🌿 **Intermediate**: React, SQL, GraphQL, Django, Flask, PostgreSQL, Prisma ORM, Firebase, OAuth, Docker </br>
