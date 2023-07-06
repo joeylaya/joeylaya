@@ -8,6 +8,7 @@ Currently, I am looking to collaborate, grow, and contribute alongside a team de
 💬 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/joeylaya/) | joeyazlaya@gmail.com
 
 ### Skills
-- 🌳 **Advanced**: Python, JavaScript, TypeScript, Node.js, Vue.js, Nuxt, WindiCSS/TailwindCSS, Figma </br>
-- 🌿 **Intermediate**: React, SQL, GraphQL, Django, Flask, PostgreSQL, Prisma ORM, Firebase, OAuth, Docker </br>
-- 🌱 **Beginner**: Solidity, Rust, Anchor, C++, AWS, Google Cloud, Microsoft Azure, Bootstrap, GSAP
+- 🌱 **Languages**: Python, JavaScript, TypeScript, GraphQL, SQL, CSS, HTML
+- 🌿 **Frameworks & Libraries**: React, Vue, Node, Nuxt, Express, Deno, Fresh </br>
+- 🌳 **Tools**: PostgreSQL, Prisma ORM, Docker, Auth0, Figma </br>
+
