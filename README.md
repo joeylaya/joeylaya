@@ -1,14 +1,17 @@
 ### About Me
-Hey there 👋🏽 I'm Joey Laya (they). I'm a bootcamp-graduated and self-taught software engineer engaging in technically and socially innovative work.
+Hey there! I'm Joey Laya (they/them).  I’m passionate about catalyzing social liberation at the intersections of creative expression, cultural connection, and technological innovation.
 
-In pursuing software engineering, I've discovered how my technical and formulaic thinking, creative mindset, and social justice underpinnings compound into an exciting and essential niche in my life and the world around me. I'm passionate about leveraging tech and artistry in **human-centric** and **boldly radical** ways that further **social liberation**. 
+I am eager to learn, collaborate, and work alongside a team dedicated to creating and cultivating projects that genuinely make a difference in the lives of others.
 
-Currently, I am looking to collaborate, grow, and contribute alongside a team dedicated to creating and cultivating projects that genuinely make a difference in the lives of others. I'm especially interested in projects related to Web3, decentralization, open-source development, social justice, climate justice, music, and education.
+When I'm not designing or coding, I'm making music, spending time with my spouse and four cats, or watching reality TV on Netflix.
 
+-------
+#### Summary of Qualifications:
+- Education: M.A. in Cultural Studies, B.S. in Music Industry, and five certificates in Software Engineering
+- Expertise: Experience designing and developing apps and websites utilizing a range of languages, frameworks, and strategies
+- Drive: Passion, motivation, and dedication to creating forward-thinking, technically-sound, and human-centric software.
+- Mindset: Openness and excitement to learn, contribute, and collaborate within a team
+- Skills: Exceptional problem-solving, creative thinking, and self-management skills
+  
+-------
 💬 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/joeylaya/) | joeyazlaya@gmail.com
-
-### Skills
-- 🌱 **Languages**: Python, JavaScript, TypeScript, GraphQL, SQL, CSS, HTML
-- 🌿 **Frameworks & Libraries**: React, Vue, Node, Nuxt, Express, Deno, Fresh </br>
-- 🌳 **Tools**: PostgreSQL, Prisma ORM, Docker, Auth0, Figma </br>
-
