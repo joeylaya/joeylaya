@@ -7,7 +7,7 @@ When I'm not designing or coding, I'm making music, spending time with my spouse
 
 -------
 #### Summary of Qualifications:
-- Education: M.A. in Cultural Studies, B.S. in Music Industry, and five certificates in Software Engineering
+- Education: M.A. in Cultural Studies, B.S. in Music Industry, two coding bootcamps, and three certificates in software engineering
 - Expertise: Experience designing and developing apps and websites utilizing a range of languages, frameworks, and strategies
 - Drive: Passion, motivation, and dedication to creating forward-thinking, technically-sound, and human-centric software.
 - Mindset: Openness and excitement to learn, contribute, and collaborate within a team
