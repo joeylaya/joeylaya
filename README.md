@@ -1,17 +1,8 @@
-### About Me
-Hey there! I'm Joey Laya (they/them).  I’m passionate about catalyzing social liberation at the intersections of creative expression, cultural connection, and technological innovation.
-
-I am eager to learn, collaborate, and work alongside a team dedicated to creating and cultivating projects that genuinely make a difference in the lives of others.
-
-When I'm not designing or coding, I'm making music, spending time with my spouse and four cats, or watching reality TV on Netflix.
+Bootcamp-graduated and self-taught software engineer with strong coding fundamentals and experience engineering challenging, high quality projects from design to deployment. Passionate about catalyzing social change at the intersections of creative expression, community connection, and technological innovation. Eager to imagine, create, and collaborate while growing as an early career software engineer.
 
 -------
-#### Summary of Qualifications:
-- Education: M.A. in Cultural Studies, B.S. in Music Industry, two coding bootcamps, and three certificates in software engineering
-- Expertise: Experience designing and developing apps and websites utilizing a range of languages, frameworks, and strategies
-- Drive: Passion, motivation, and dedication to creating forward-thinking, technically-sound, and human-centric software.
-- Mindset: Openness and excitement to learn, contribute, and collaborate within a team
-- Skills: Exceptional problem-solving, creative thinking, and self-management skills
+- Technical Skills: Computer science fundamentals, algorithms and data structures, full-stack development, product design, JavaScript, TypeScript, Python, SQL, GraphQL, Node, React, Vue, Tailwind CSS, SASS, Express;
+- Soft Skills: Problem solving, creative thinking, collaborative attitude, professional and technical communication, growth mindset, inclusion and accessibility, flexibility and adaptability;
   
 -------
 💬 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/joeylaya/) | joeyazlaya@gmail.com
